@@ -2,8 +2,8 @@
 <h1>Category API</h1>
 </div>
 
-JDK : 11
-RDBMS : H2
+JDK  - 11
+RDBMS - H2
 
 
 ## 1.설치
